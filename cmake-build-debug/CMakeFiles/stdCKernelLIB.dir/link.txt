@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstdCKernelLIB.a CMakeFiles/stdCKernelLIB.dir/library.c.o
+/usr/bin/ranlib libstdCKernelLIB.a

@@ -1,0 +1,3 @@
+/home/pietro/stdCKernelLIB/CMakeFiles/rebuild_cache.dir
+/home/pietro/stdCKernelLIB/CMakeFiles/edit_cache.dir
+/home/pietro/stdCKernelLIB/CMakeFiles/stdCKernelLIB.dir
