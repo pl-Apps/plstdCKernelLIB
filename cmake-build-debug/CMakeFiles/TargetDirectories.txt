@@ -1,3 +1,0 @@
-/home/pietro/stdCKernelLIB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/pietro/stdCKernelLIB/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/pietro/stdCKernelLIB/cmake-build-debug/CMakeFiles/stdCKernelLIB.dir
